@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: 0BSD
 
-const doh = 'https://dns.nextdns.io/e19d2e/OpenWrt'
-const dohjson = 'https://dns.nextdns.io/e19d2e/OpenWrt'
+const doh = 'https://dns.nextdns.io/e19d2e/OpenWrt-cf'
+const dohjson = 'https://dns.nextdns.io/e19d2e/OpenWrt-cf'
 const contype = 'application/dns-message'
 const jstontype = 'application/dns-json'
 const path = ''; // default allow all, must start with '/' if specified, eg. "/dns-query"
